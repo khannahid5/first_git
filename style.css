@@ -1,3 +1,13 @@
 #color1{
     color: yellow;
 }
+p{
+    color: firebrick;
+    background-color: blue;
+    border: 20px;
+    border-color: aqua;
+    border-radius: 10px;
+    margin: 20px;
+    padding: 10px;
+    text-align: justify;
+}
